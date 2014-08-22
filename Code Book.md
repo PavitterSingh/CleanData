@@ -3,10 +3,14 @@ CODE Book
 
 This code book describes the variables, the data, and any transformations or work that you performed to clean up the data.
 
-###The data source
-- dataset can be found here: 
+#The data source [1] Check References at end of this file
+
+- dataset can be found here:
+- 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 - Original description of the dataset can be found here: 
+- 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ###Data Set Information
@@ -42,3 +46,10 @@ There are 5 parts:
 3.	Uses descriptive activity names to name the activities in the data set
 4.	Appropriately labels the data set with descriptive activity names.
 5.	Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+###References: 
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
+
+Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
